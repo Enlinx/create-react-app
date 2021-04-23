@@ -30,11 +30,13 @@ function App() {
           </ListGroup.Item>
           <ListGroup.Item>Update Readme</ListGroup.Item>
           <ListGroup.Item>Add .env files</ListGroup.Item>
-          <ListGroup.Item>Add </ListGroup.Item>
+          <ListGroup.Item>Add 
+
           <a className='App-link'
               href='https://fontawesome.com/how-to-use/on-the-web/using-with/react'
               target='_blank'
               rel='noopener noreferrer'>Font Awesome React</a>
+              </ListGroup.Item>
           <ListGroup.Item>
             Grab the{' '}
             <a
